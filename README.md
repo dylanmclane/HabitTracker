@@ -1,4 +1,4 @@
-# HabitTracker
+# Habit Tracker
 An app to track habits over the current month. Tracked over a calendar-style grid. Habits completed each day show a green grid box. Habits not completed on a day show red. Progress currently stored in localStorage. 
 
 Current work in progress
